@@ -1,14 +1,14 @@
 # masterthesis
 Code for masterthesis "Unravelling regulatory interactions in stem cell differentiation in sponges", which explores stem cell differentiation using single-cell sequencing methods. 
 
-### Aim 1: Generating an improved reference transcriptome for Suberites domuncula
+## Aim 1: Generating an improved reference transcriptome for Suberites domuncula
 * **transcriptome_rename_gtf.py**: script to rename reference transcriptome gtf file to more intuitive gene and transcript IDs
 
-### Aim 2: Analysing single-cell gene expression data
+## Aim 2: Analysing single-cell gene expression data
 * **sponge_scRNA.ipynb**: script to perform full scanpy analysis, including preprocessing, clustering and CytoTRACE pseudotime analysis
 * **monocle3_conversion.R**: script to perform monocle3 analysis
 
-#### Aim 3: Investigating differentiation trajectories
+## Aim 3: Investigating differentiation trajectories
 * **monocle3_conversion.R**: the last code lines are used to select the differentiation trajectories, extract the cell barcodes and save them as an SVG file
 * **sponge_diff_traj.ipynb**: reading in the SVG file of the cell barcodes, the adata object is subsetted to continue the analysis with only the current trajectory
 * **full_trajectory_protocol**.ipynb: script which analyses the differentiation trajectory: Pearson correlation analysis, finding regulating motives, plotting motif abundance throughout a list of genes 
