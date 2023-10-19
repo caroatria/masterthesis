@@ -14,27 +14,27 @@ Code for masterthesis "Unravelling regulatory interactions in stem cell differen
 * **full_trajectory_protocol**.ipynb: script which analyses the differentiation trajectory: Pearson correlation analysis, finding regulating motives, plotting motif abundance throughout a list of genes 
 
 
- - Packages:
-- Python                  3.10.1
-- R                       4.2.1
-- anndata                 0.7.5
-- biopython               1.80
-- conda                   23.3.1
-- h5py                    3.9.0
-- matplotlib              3.7.2
-- mudata                  0.2.3
-- muon                    0.1.5
-- numpy                   1.24.4
-- pandas                  2.0.3
-- pip                     23.0.1
-- scanpy                  1.9.3
-- scikit-learn            1.3.0
-- scipy                   1.11.1
-- seaborn                 0.12.2
-- umap-learn              0.5.3
-- wheel                   0.38.4
-- Seurat                  4.3.0
-- Monocle3                1.2.9
-- SeuratWrappers          0.3.0
-- SingleCellExperiment    1.20.1
-- zellkonverter           1.6.5
+### Packages:
+* Python                  3.10.1
+* R                       4.2.1
+* anndata                 0.7.5
+* biopython               1.80
+* conda                   23.3.1
+* h5py                    3.9.0
+* matplotlib              3.7.2
+* mudata                  0.2.3
+* muon                    0.1.5
+* numpy                   1.24.4
+* pandas                  2.0.3
+* pip                     23.0.1
+* scanpy                  1.9.3
+* scikit-learn            1.3.0
+* scipy                   1.11.1
+* seaborn                 0.12.2
+* umap-learn              0.5.3
+* wheel                   0.38.4
+* Seurat                  4.3.0
+* Monocle3                1.2.9
+* SeuratWrappers          0.3.0
+* SingleCellExperiment    1.20.1
+* zellkonverter           1.6.5
