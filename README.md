@@ -20,6 +20,7 @@ Packages:
 Python                  3.10.1
 R                       4.2.1
 anndata                 0.7.5
+biopython               1.80
 conda                   23.3.1
 h5py                    3.9.0
 matplotlib              3.7.2
