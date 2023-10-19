@@ -13,7 +13,6 @@ Code for masterthesis "Unravelling regulatory interactions in stem cell differen
 * **sponge_diff_traj.ipynb**: reading in the SVG file of the cell barcodes, the adata object is subsetted to continue the analysis with only the current trajectory
 * **full_trajectory_protocol.ipynb**: script which analyses the differentiation trajectory: Pearson correlation analysis, finding regulating motives, plotting motif abundance throughout a list of genes 
 
-
 ## Packages:
 * Python                  3.10.1
 * R                       4.2.1
