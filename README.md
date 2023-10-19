@@ -11,7 +11,7 @@ Code for masterthesis "Unravelling regulatory interactions in stem cell differen
 ## Aim 3: Investigating differentiation trajectories
 * **monocle3_conversion.R**: the last code lines are used to select the differentiation trajectories, extract the cell barcodes and save them as an SVG file
 * **sponge_diff_traj.ipynb**: reading in the SVG file of the cell barcodes, the adata object is subsetted to continue the analysis with only the current trajectory
-* **full_trajectory_protocol**.ipynb: script which analyses the differentiation trajectory: Pearson correlation analysis, finding regulating motives, plotting motif abundance throughout a list of genes 
+* **full_trajectory_protocol.ipynb**: script which analyses the differentiation trajectory: Pearson correlation analysis, finding regulating motives, plotting motif abundance throughout a list of genes 
 
 
 ## Packages:
