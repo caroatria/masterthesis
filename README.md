@@ -1,4 +1,4 @@
-# masterthesis
+# Masterthesis
 Code for masterthesis "Unravelling regulatory interactions in stem cell differentiation in sponges", which explores stem cell differentiation using single-cell sequencing methods. 
 
 ## Aim 1: Generating an improved reference transcriptome for Suberites domuncula
